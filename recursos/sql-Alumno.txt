@@ -1,0 +1,7 @@
+Mensaje a escribir en el fichero
+1 | Luis | Gomez | 1234A
+2 | Rosa | Padilla | 2222B
+3 | Juan | Lopez | 3333C
+4 | Luis | Gomez | 1234A
+5 | Rosa | Padilla | 2222B
+6 | Juan | Lopez | 3333C
